@@ -1,0 +1,16 @@
+[package]
+name = "rust-mesh"
+version = "0.1.0"
+edition = "2021"
+authors = ["Aras14HD"]
+description = "The official Mesh implementation"
+repository = "https://github.com/Mesh-P2P/rust-mesh"
+license = "GPL-3.0"
+license-file = "LICENSE"
+readme = "README.md"
+documentation = "https://github.com/Mesh-P2P/rust-mesh/wiki/"
+keywords = ["mesh", "P2P"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
