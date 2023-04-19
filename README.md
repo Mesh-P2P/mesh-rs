@@ -1,2 +1,2 @@
-# rust-mesh
+# mesh-rs
 The official Mesh implementation
